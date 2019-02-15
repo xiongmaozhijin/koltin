@@ -1,3 +1,4 @@
+DAY 1:
 1. https://kotlinlang.org/docs/tutorials/coroutines/coroutines-basic-jvm.html
 2. https://kotlinlang.org/docs/tutorials/coroutines/async-programming.html
 3. JavaScript Promises/Futures 
@@ -10,3 +11,5 @@
 	https://github.com/Kotlin/kotlinx.coroutines
 7. 	https://github.com/Kotlin/kotlinx.coroutines/blob/master/docs/basics.md
 
+DAY 2:
+1. 
