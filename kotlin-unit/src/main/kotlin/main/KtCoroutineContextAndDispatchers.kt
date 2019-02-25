@@ -6,7 +6,16 @@ import kotlinx.coroutines.newSingleThreadContext
 import kotlinx.coroutines.runBlocking
 
 fun main(array: Array<String>) {
-    Df1()
+    Df2()
+}
+
+fun Df2() {
+    val str = "1551075783329:"
+    val split = str.split(":")
+    println("length is ${split.size}")
+    split.forEach {
+        println(it)
+    }
 }
 
 fun Df1() {
